@@ -1,0 +1,6 @@
+build/
+out/
+*.pgm
+*.ppm
+*.bmp
+!docs/*.png
